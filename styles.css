@@ -1,0 +1,16 @@
+table {
+    border-collapse: collapse;
+}
+
+th {
+    background-color: silver;
+}
+
+td {
+    border: 1px solid black;
+    padding: 0 24px;
+}
+
+footer {
+    padding-top: 50px;
+}
